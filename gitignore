@@ -1,0 +1,106 @@
+# General
+*.swp
+*~
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored if NuGet Restore is used.
+**/[Pp]ackages/*
+# Uncomment if necessary:
+#!**/[Pp]ackages/build/
+#!**/[Pp]ackages/repositories.config
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# dotnet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.vcxproj.user
+*.builds
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# Publish
+*.publishsettings
+PublishProfiles/
+
+# Docker
+*.container.*
+Dockerfile
+docker-compose.*
+.dockerignore
+
+# Logs
+*.log
+
+# Entity Framework
+*.edmx.sql
+*.dbmdl
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Coverage
+*.coverage
+*.coveragexml
+.coverage
+*.dotCover
+
+# User Secrets
+secrets.json
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Web
+**/node_modules/
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
