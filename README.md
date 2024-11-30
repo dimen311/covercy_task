@@ -1,2 +1,3 @@
-use dotnet run
-be sure it runing on  http://localhost:5000.
+Use dotnet run
+
+Be sure it runing on  http://localhost:5000.
